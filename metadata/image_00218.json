@@ -1,0 +1,23 @@
+{
+  "image": "image_00218.jpg",
+  "split": "train",
+  "logos_in_image": 1,
+  "jpeg_quality": 55,
+  "blur_sigma": 1.64,
+  "noise_level": 9.6,
+  "detections": [
+    {
+      "logo": "youngkirktrio.png",
+      "class_id": 6,
+      "placement_type": "random",
+      "rotation": 0.0,
+      "opacity": 0.997,
+      "scale_ratio": 0.26,
+      "center_x": 0.6367,
+      "center_y": 0.6796,
+      "bbox_w": 0.6804,
+      "bbox_h": 0.2593,
+      "aspect_ratio_distortion": 0.0
+    }
+  ]
+}

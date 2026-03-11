@@ -1,0 +1,23 @@
+{
+  "image": "image_00284.jpg",
+  "split": "train",
+  "logos_in_image": 1,
+  "jpeg_quality": 93,
+  "blur_sigma": 0.94,
+  "noise_level": 0.0,
+  "detections": [
+    {
+      "logo": "floydbamastein.png",
+      "class_id": 0,
+      "placement_type": "bottom_third",
+      "rotation": -1.96,
+      "opacity": 0.89,
+      "scale_ratio": 0.215,
+      "center_x": 0.3105,
+      "center_y": 0.6759,
+      "bbox_w": 0.2916,
+      "bbox_h": 0.2204,
+      "aspect_ratio_distortion": 0.092
+    }
+  ]
+}

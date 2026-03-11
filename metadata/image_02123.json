@@ -1,0 +1,23 @@
+{
+  "image": "image_02123.jpg",
+  "split": "val",
+  "logos_in_image": 1,
+  "jpeg_quality": 48,
+  "blur_sigma": 0.81,
+  "noise_level": 5.1,
+  "detections": [
+    {
+      "logo": "rupeewhite.png",
+      "class_id": 4,
+      "placement_type": "random",
+      "rotation": -2.58,
+      "opacity": 0.772,
+      "scale_ratio": 0.323,
+      "center_x": 0.5,
+      "center_y": 0.419,
+      "bbox_w": 1.0,
+      "bbox_h": 0.3583,
+      "aspect_ratio_distortion": 0.0
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image": "image_01129.jpg",
+  "split": "train",
+  "logos_in_image": 1,
+  "jpeg_quality": 92,
+  "blur_sigma": 0.0,
+  "noise_level": 8.2,
+  "detections": [
+    {
+      "logo": "jewstein.png",
+      "class_id": 2,
+      "placement_type": "center",
+      "rotation": 0.0,
+      "opacity": 0.91,
+      "scale_ratio": 0.353,
+      "center_x": 0.5461,
+      "center_y": 0.3699,
+      "bbox_w": 0.4893,
+      "bbox_h": 0.3528,
+      "aspect_ratio_distortion": 0.217
+    }
+  ]
+}

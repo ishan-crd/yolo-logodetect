@@ -1,0 +1,23 @@
+{
+  "image": "image_00465.jpg",
+  "split": "train",
+  "logos_in_image": 1,
+  "jpeg_quality": 90,
+  "blur_sigma": 0.0,
+  "noise_level": 0.0,
+  "detections": [
+    {
+      "logo": "herokirk.png",
+      "class_id": 1,
+      "placement_type": "random",
+      "rotation": -19.2,
+      "opacity": 0.867,
+      "scale_ratio": 0.211,
+      "center_x": 0.4143,
+      "center_y": 0.8236,
+      "bbox_w": 0.4399,
+      "bbox_h": 0.262,
+      "aspect_ratio_distortion": 0.0
+    }
+  ]
+}

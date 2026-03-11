@@ -1,0 +1,23 @@
+{
+  "image": "image_01428.jpg",
+  "split": "train",
+  "logos_in_image": 1,
+  "jpeg_quality": 79,
+  "blur_sigma": 0.0,
+  "noise_level": 0.0,
+  "detections": [
+    {
+      "logo": "trumpmeneiyahu.png",
+      "class_id": 5,
+      "placement_type": "bottom_third",
+      "rotation": -3.93,
+      "opacity": 0.966,
+      "scale_ratio": 0.288,
+      "center_x": 0.5774,
+      "center_y": 0.7162,
+      "bbox_w": 0.8451,
+      "bbox_h": 0.3231,
+      "aspect_ratio_distortion": 0.0
+    }
+  ]
+}

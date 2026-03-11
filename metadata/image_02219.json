@@ -1,0 +1,23 @@
+{
+  "image": "image_02219.jpg",
+  "split": "val",
+  "logos_in_image": 1,
+  "jpeg_quality": 57,
+  "blur_sigma": 0.0,
+  "noise_level": 0.0,
+  "detections": [
+    {
+      "logo": "jewstein.png",
+      "class_id": 2,
+      "placement_type": "corners",
+      "rotation": 9.76,
+      "opacity": 0.984,
+      "scale_ratio": 0.27,
+      "center_x": 0.7784,
+      "center_y": 0.1458,
+      "bbox_w": 0.4432,
+      "bbox_h": 0.2917,
+      "aspect_ratio_distortion": 0.0
+    }
+  ]
+}

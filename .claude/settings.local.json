@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(yt-dlp --cookies-from-browser safari -J --flat-playlist \"https://www.instagram.com/mrbeast/reels/\" 2>&1 | head -20)"
+    ]
+  }
+}

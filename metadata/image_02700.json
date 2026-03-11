@@ -1,0 +1,9 @@
+{
+  "image": "image_02700.jpg",
+  "split": "val",
+  "logos_in_image": 0,
+  "jpeg_quality": 60,
+  "blur_sigma": 2.12,
+  "noise_level": 10.2,
+  "detections": []
+}

@@ -1,0 +1,36 @@
+{
+  "image": "image_00467.jpg",
+  "split": "train",
+  "logos_in_image": 2,
+  "jpeg_quality": 72,
+  "blur_sigma": 0.9,
+  "noise_level": 0.0,
+  "detections": [
+    {
+      "logo": "trumpmeneiyahu.png",
+      "class_id": 5,
+      "placement_type": "center",
+      "rotation": 0.0,
+      "opacity": 0.56,
+      "scale_ratio": 0.23,
+      "center_x": 0.547,
+      "center_y": 0.5028,
+      "bbox_w": 0.8896,
+      "bbox_h": 0.2296,
+      "aspect_ratio_distortion": 0.218
+    },
+    {
+      "logo": "floydbamastein.png",
+      "class_id": 0,
+      "placement_type": "top_third",
+      "rotation": -13.38,
+      "opacity": 0.8,
+      "scale_ratio": 0.29,
+      "center_x": 0.5198,
+      "center_y": 0.1356,
+      "bbox_w": 0.5519,
+      "bbox_h": 0.2713,
+      "aspect_ratio_distortion": 0.289
+    }
+  ]
+}

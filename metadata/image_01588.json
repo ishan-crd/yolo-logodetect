@@ -1,0 +1,36 @@
+{
+  "image": "image_01588.jpg",
+  "split": "train",
+  "logos_in_image": 2,
+  "jpeg_quality": 61,
+  "blur_sigma": 0.0,
+  "noise_level": 5.5,
+  "detections": [
+    {
+      "logo": "herokirk.png",
+      "class_id": 1,
+      "placement_type": "bottom_third",
+      "rotation": 0.0,
+      "opacity": 0.683,
+      "scale_ratio": 0.312,
+      "center_x": 0.4984,
+      "center_y": 0.8162,
+      "bbox_w": 0.6409,
+      "bbox_h": 0.312,
+      "aspect_ratio_distortion": 0.288
+    },
+    {
+      "logo": "rupeewhite.png",
+      "class_id": 4,
+      "placement_type": "bottom_third",
+      "rotation": 3.54,
+      "opacity": 0.711,
+      "scale_ratio": 0.161,
+      "center_x": 0.3361,
+      "center_y": 0.7542,
+      "bbox_w": 0.6722,
+      "bbox_h": 0.1898,
+      "aspect_ratio_distortion": 0.295
+    }
+  ]
+}

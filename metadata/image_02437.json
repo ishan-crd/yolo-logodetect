@@ -1,0 +1,23 @@
+{
+  "image": "image_02437.jpg",
+  "split": "val",
+  "logos_in_image": 1,
+  "jpeg_quality": 83,
+  "blur_sigma": 0.75,
+  "noise_level": 3.4,
+  "detections": [
+    {
+      "logo": "herokirk.png",
+      "class_id": 1,
+      "placement_type": "bottom_third",
+      "rotation": 0.0,
+      "opacity": 0.726,
+      "scale_ratio": 0.256,
+      "center_x": 0.173,
+      "center_y": 0.8065,
+      "bbox_w": 0.346,
+      "bbox_h": 0.2556,
+      "aspect_ratio_distortion": 0.0
+    }
+  ]
+}

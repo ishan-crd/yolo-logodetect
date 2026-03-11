@@ -1,0 +1,36 @@
+{
+  "image": "image_01294.jpg",
+  "split": "train",
+  "logos_in_image": 2,
+  "jpeg_quality": 60,
+  "blur_sigma": 1.2,
+  "noise_level": 20.2,
+  "detections": [
+    {
+      "logo": "jewstein.png",
+      "class_id": 2,
+      "placement_type": "center",
+      "rotation": 0.0,
+      "opacity": 0.902,
+      "scale_ratio": 0.216,
+      "center_x": 0.5585,
+      "center_y": 0.5329,
+      "bbox_w": 0.3822,
+      "bbox_h": 0.2157,
+      "aspect_ratio_distortion": 0.0
+    },
+    {
+      "logo": "trumpmeneiyahu.png",
+      "class_id": 5,
+      "placement_type": "center",
+      "rotation": -4.73,
+      "opacity": 0.623,
+      "scale_ratio": 0.224,
+      "center_x": 0.5247,
+      "center_y": 0.3921,
+      "bbox_w": 0.743,
+      "bbox_h": 0.2565,
+      "aspect_ratio_distortion": 0.0
+    }
+  ]
+}

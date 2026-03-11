@@ -1,0 +1,23 @@
+{
+  "image": "image_01571.jpg",
+  "split": "train",
+  "logos_in_image": 1,
+  "jpeg_quality": 85,
+  "blur_sigma": 0.0,
+  "noise_level": 0.0,
+  "detections": [
+    {
+      "logo": "rupeeblack.png",
+      "class_id": 3,
+      "placement_type": "top_third",
+      "rotation": 0.0,
+      "opacity": 0.705,
+      "scale_ratio": 0.22,
+      "center_x": 0.5758,
+      "center_y": 0.181,
+      "bbox_w": 0.8484,
+      "bbox_h": 0.2194,
+      "aspect_ratio_distortion": 0.158
+    }
+  ]
+}

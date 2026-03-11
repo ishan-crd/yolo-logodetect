@@ -1,0 +1,36 @@
+{
+  "image": "image_01808.jpg",
+  "split": "train",
+  "logos_in_image": 2,
+  "jpeg_quality": 88,
+  "blur_sigma": 0.0,
+  "noise_level": 20.7,
+  "detections": [
+    {
+      "logo": "herokirk.png",
+      "class_id": 1,
+      "placement_type": "center",
+      "rotation": 4.09,
+      "opacity": 0.946,
+      "scale_ratio": 0.194,
+      "center_x": 0.6269,
+      "center_y": 0.6264,
+      "bbox_w": 0.318,
+      "bbox_h": 0.2065,
+      "aspect_ratio_distortion": 0.052
+    },
+    {
+      "logo": "herokirk.png",
+      "class_id": 1,
+      "placement_type": "center",
+      "rotation": -2.63,
+      "opacity": 0.517,
+      "scale_ratio": 0.286,
+      "center_x": 0.5379,
+      "center_y": 0.5491,
+      "bbox_w": 0.5058,
+      "bbox_h": 0.2981,
+      "aspect_ratio_distortion": 0.064
+    }
+  ]
+}

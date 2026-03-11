@@ -1,0 +1,36 @@
+{
+  "image": "image_01909.jpg",
+  "split": "train",
+  "logos_in_image": 2,
+  "jpeg_quality": 86,
+  "blur_sigma": 0.0,
+  "noise_level": 0.0,
+  "detections": [
+    {
+      "logo": "trumpmeneiyahu.png",
+      "class_id": 5,
+      "placement_type": "corners",
+      "rotation": -1.34,
+      "opacity": 0.922,
+      "scale_ratio": 0.345,
+      "center_x": 0.5288,
+      "center_y": 0.1727,
+      "bbox_w": 0.9423,
+      "bbox_h": 0.3454,
+      "aspect_ratio_distortion": 0.0
+    },
+    {
+      "logo": "rupeewhite.png",
+      "class_id": 4,
+      "placement_type": "bottom_third",
+      "rotation": 0.0,
+      "opacity": 0.946,
+      "scale_ratio": 0.284,
+      "center_x": 0.5,
+      "center_y": 0.8792,
+      "bbox_w": 1.0,
+      "bbox_h": 0.2417,
+      "aspect_ratio_distortion": 0.0
+    }
+  ]
+}

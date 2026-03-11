@@ -1,0 +1,12 @@
+path: /Users/ishangupta/Desktop/yolodetection/dataset
+train: images/train
+val: images/val
+
+names:
+  0: floydbamastein
+  1: herokirk
+  2: jewstein
+  3: rupeeblack
+  4: rupeewhite
+  5: trumpmeneiyahu
+  6: youngkirktrio

@@ -1,0 +1,23 @@
+{
+  "image": "image_02821.jpg",
+  "split": "val",
+  "logos_in_image": 1,
+  "jpeg_quality": 76,
+  "blur_sigma": 0.0,
+  "noise_level": 18.1,
+  "detections": [
+    {
+      "logo": "trumpmeneiyahu.png",
+      "class_id": 5,
+      "placement_type": "center",
+      "rotation": 0.0,
+      "opacity": 0.866,
+      "scale_ratio": 0.245,
+      "center_x": 0.5914,
+      "center_y": 0.5185,
+      "bbox_w": 0.7776,
+      "bbox_h": 0.2444,
+      "aspect_ratio_distortion": 0.0
+    }
+  ]
+}

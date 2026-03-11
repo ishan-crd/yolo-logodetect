@@ -1,0 +1,36 @@
+{
+  "image": "image_02369.jpg",
+  "split": "val",
+  "logos_in_image": 2,
+  "jpeg_quality": 33,
+  "blur_sigma": 0.94,
+  "noise_level": 0.0,
+  "detections": [
+    {
+      "logo": "herokirk.png",
+      "class_id": 1,
+      "placement_type": "top_third",
+      "rotation": 0.0,
+      "opacity": 0.689,
+      "scale_ratio": 0.218,
+      "center_x": 0.4415,
+      "center_y": 0.1597,
+      "bbox_w": 0.4053,
+      "bbox_h": 0.2176,
+      "aspect_ratio_distortion": 0.169
+    },
+    {
+      "logo": "youngkirktrio.png",
+      "class_id": 6,
+      "placement_type": "bottom_third",
+      "rotation": 0.0,
+      "opacity": 0.934,
+      "scale_ratio": 0.195,
+      "center_x": 0.6293,
+      "center_y": 0.863,
+      "bbox_w": 0.4745,
+      "bbox_h": 0.1944,
+      "aspect_ratio_distortion": 0.07
+    }
+  ]
+}

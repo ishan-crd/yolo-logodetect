@@ -1,0 +1,23 @@
+{
+  "image": "image_02363.jpg",
+  "split": "val",
+  "logos_in_image": 1,
+  "jpeg_quality": 91,
+  "blur_sigma": 0.83,
+  "noise_level": 3.5,
+  "detections": [
+    {
+      "logo": "youngkirktrio.png",
+      "class_id": 6,
+      "placement_type": "top_third",
+      "rotation": 0.0,
+      "opacity": 0.858,
+      "scale_ratio": 0.274,
+      "center_x": 0.6936,
+      "center_y": 0.2769,
+      "bbox_w": 0.6129,
+      "bbox_h": 0.2741,
+      "aspect_ratio_distortion": 0.0
+    }
+  ]
+}

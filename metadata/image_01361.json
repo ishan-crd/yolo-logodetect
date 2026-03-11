@@ -1,0 +1,9 @@
+{
+  "image": "image_01361.jpg",
+  "split": "train",
+  "logos_in_image": 0,
+  "jpeg_quality": 46,
+  "blur_sigma": 0.0,
+  "noise_level": 6.8,
+  "detections": []
+}
